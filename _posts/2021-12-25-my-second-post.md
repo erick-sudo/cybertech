@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Introduction to Python
-subtitle: Each post also has a subtitle
+subtitle: Python Basics
 categories: Python
 tags: [Python, intro, certificate]
 ---
